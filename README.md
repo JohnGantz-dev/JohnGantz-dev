@@ -26,6 +26,17 @@ Backend architect and automation engineer who also prototypes in CAD/CAM. I desi
 
 ---
 
+## Featured live products
+
+Public products I built and operate:
+
+| Product | What it is | Live | Showcase |
+|---------|------------|------|----------|
+| [**Bonnie's and Clyde's**](https://bonniesnclydes.com) | Date-night marketplace (NE Ohio) — Three.js map product, Stripe, native Swift iOS | [bonniesnclydes.com](https://bonniesnclydes.com) | [bonnies-and-clydes-showcase](https://github.com/JohnGantz-dev/bonnies-and-clydes-showcase) |
+| [**The AI Drip**](https://the-ai-drip.com) | Claude Code–centered content brand — daily auto-published edition + webinar funnel | [the-ai-drip.com](https://the-ai-drip.com) | [the-ai-drip-showcase](https://github.com/JohnGantz-dev/the-ai-drip-showcase) |
+
+---
+
 ## Featured projects
 
 Portfolio demos with fictional sample data (not client work):

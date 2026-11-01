@@ -1,80 +1,47 @@
-# Hi, I'm John Gantz
+# John Gantz
 
-### Drone Pilot | Full-Stack Developer | AI Automation
+**Gantzter Designs** · Canton, OH · **Available for remote work only** · 12+ years building software and engineered systems
 
-I build things that fly and things that scale.
-
----
-
-## What I Do
-
-**Drone Operations** – FAA Part 107 certified with 6+ years experience
-- Industrial inspections (steel plants, cranes, telecom towers)
-- LiDAR & 3D mapping / photogrammetry
-- Thermal imaging (solar farms, electrical, building envelopes)
-
-**Software Development** – SaaS products with AI integration
-- Full-stack: Next.js, FastAPI, PostgreSQL
-- AI: Claude API, OpenAI, Whisper
-- Automation: n8n workflows (85-95% process automation)
-- Security: OWASP ZAP, Nuclei, Nmap
+Backend architect and automation engineer who also prototypes in CAD/CAM. I design AI agents, MCP tools, and MEAN/MERN backends — and I know how physical parts get made.
 
 ---
 
-## Current Projects
+## AI agents & MCP / automation
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| **ForgeStack** | Universal AI assistant platform | Building |
-| **ClawdBot** | AI Discord bot with Claude integration | Live |
-| **CrowdLaunch** | Crowdfunding automation platform | Building |
-| **VoiceForge** | Voice-to-command developer tools | Building |
-| **NFTForge** | NFT creation & minting platform | Live |
-| **LeadForge** | Lead generation system (320K+ leads) | Live |
-| **PTaaS** | Automated penetration testing service | Building |
+- **Claude Code**, custom agent workflows, and **Model Context Protocol (MCP)** servers
+- **n8n** and event-driven automation (intake → classify → route)
+- Practical AI tooling that ships: typed tools, offline-safe demos, no secret leakage
 
----
+## Backend architect
 
-## Tech Stack
+- **MEAN / MERN**, **Scala**, **Python**, **JavaScript / TypeScript**, **Node.js**
+- APIs, CLI tools, data pipelines, and durable service design
+- Clean contracts, tests, and deployable demos over slideware
 
-```
-Frontend:    Next.js | React | TypeScript | Tailwind CSS
-Backend:     FastAPI | Node.js | Express
-Database:    PostgreSQL | Redis | SQLite
-AI:          Claude API | OpenAI | Whisper
-Automation:  n8n | Docker | VPS
-Security:    OWASP ZAP | Nuclei | Nmap | Kali Linux
-Drone:       DJI Terra | Metashape | DroneDeploy | Pix4D
-```
+## Engineering & prototyping
+
+- Custom prototyping, **CAD/CAM**, **CNC**
+- **SolidWorks**, **Mastercam**, **Ansys**, **Ansys Maxwell**
+- AAS CAD / Machinist — design intent that survives the shop floor
 
 ---
 
-## Certifications
+## Featured projects
 
-```
-FAA Part 107 | CDL Class-A | TWIC | HAZWOPER 40-Hr | OSHA 10-Hr | FEMA ICS-100/200 | eJPT (in progress)
-```
+Portfolio demos with fictional sample data (not client work):
 
----
-
-## Equipment
-
-| Drones | Sensors |
-|--------|---------|
-| DJI Matrice 350 RTK | High-res visual |
-| DJI Matrice 30T | FLIR thermal |
-| DJI Mavic 3/4 Enterprise | LiDAR scanner |
+| Project | What it shows |
+|---------|----------------|
+| [**invoice-query-mcp**](https://github.com/JohnGantz-dev/invoice-query-mcp) | TypeScript MCP server — invoice list/get/summary/overdue tools for Claude Desktop / MCP clients |
+| [**lead-intake-automation**](https://github.com/JohnGantz-dev/lead-intake-automation) | n8n + Node webhook — classify leads (hot/warm/cold/spam), optional LLM, CSV sheet stand-in |
+| [**booking-quote-dashboard**](https://github.com/JohnGantz-dev/booking-quote-dashboard) | Static-deployable quote & booking dashboard — pipeline stats, status badges, localStorage demo |
 
 ---
 
-## Connect
+## Book a call
 
-[![Website](https://img.shields.io/badge/Website-ariesdroneservices.com-blue?style=flat-square)](https://ariesdroneservices.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-john--gantz-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/john-gantz-351a95267)
-[![Email](https://img.shields.io/badge/Email-john%40ariesdroneservices.com-red?style=flat-square)](mailto:john@ariesdroneservices.com)
+Remote-friendly intro: **[Calendly — 30 min](https://calendly.com/johngantzjr123/30min)**
 
 ---
 
-**Canton, OH** | Building SaaS by day, flying drones by... also day.
-
-![Profile Views](https://komarev.com/ghpvc/?username=JohnGantz-dev&color=blue&style=flat-square)
+**Remote only** · Canton, OH (timezone America/New_York)
